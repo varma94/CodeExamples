@@ -1,4 +1,4 @@
-# CodeSamples
+# CodeSample
 
 
 These code samples belong to the project I am working on for a startup company.
